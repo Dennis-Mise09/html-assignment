@@ -1,0 +1,16 @@
+h1 {
+    color: blue;
+    font-style: italic;
+    font-kerning: auto;
+}
+table {
+    color: black;
+    align-content: flex-end;
+    justify-content: left;
+}
+p {
+    text-align: center
+}
+img {
+    margin-left: 60px
+}
